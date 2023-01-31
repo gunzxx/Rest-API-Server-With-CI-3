@@ -1,7 +1,7 @@
 <h1 align="center">
 Rest API Server With Code Igniter 3
 </h1>
-<br><br><br>
+<br><br>
 
 ## Bagaimana persiapan projek ini ?
 
