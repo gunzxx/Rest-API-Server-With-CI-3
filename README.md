@@ -3,7 +3,7 @@
 ## Bagaimana cara menggunakan projek ini ?
 
 ### PHP
-PHP >= 8.0
+```PHP >= 8.0```
 
 ### Database
 - Buat database dengan nama restapi
