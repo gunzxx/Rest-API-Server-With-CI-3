@@ -7,7 +7,7 @@
 
 ### Database
 - Buat database dengan nama restapi
-- lalu import database yg bernama restapi.sql diatas
+- lalu import database yg bernama ```restapi.sql``` diatas
 - Jangan lupa konfigurasi database di ``` application/config/database.php ```
 - Selesai
 
