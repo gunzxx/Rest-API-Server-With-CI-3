@@ -1,4 +1,7 @@
-# Rest-API-Server-With-CI-3
+<p align="center">
+# Rest API Server With Code Igniter 3
+</p>
+
 
 ## Bagaimana persiapan projek ini ?
 
