@@ -30,4 +30,4 @@ Membutuhkan ```PHP >= 8.0```
 - Pada bagian params, masukkan token anda
 - Untuk menggunakan method lain anda bisa mencobanya sendiri
 
-Jangan lupa beri start ya
+Jangan lupa beri start ya ⭐⭐⭐
