@@ -31,6 +31,9 @@ Membutuhkan ```PHP >= 8.0```
 - Buka POSTMAN
 - Masukkan url anda dan tambahkan ```api/mahasiswa``` , contoh : ```http://localhost/api/mahasiswa```
 - Pada bagian params, masukkan token anda
-- Untuk menggunakan method lain anda bisa mencobanya sendiri
+- Masukkan username dan password yang sudah di setup pada langkah diatas ke dalam tab Authorization
+- Enjoyy
+
+## Untuk menggunakan method lain anda bisa mencobanya sendiri
 
 Jangan lupa beri start ya ⭐⭐⭐
